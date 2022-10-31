@@ -1,0 +1,42 @@
+git config user.name "new name"
+git config credential.username "new name"
+Share
+Improve this answer
+Follow
+answered Jan 24 at 15:13
+codingCartooningCPA's user avatar
+codingCartooningCPA
+20822 silver badges55 bronze badges
+1
+and you should also add the personal access token! – 
+CHAHI Saad
+ Feb 2 at 11:30
+1
+I can do that only with your answer. Thank you !!! – 
+Raimundo Baravaglio
+ Jun 5 at 15:52
+Add a comment
+
+8
+
+
+If you are using MacOS, you can
+
+go to KeyChain Access,
+Search for "GitHub",
+then when then result "github.com" pops up, change the account or password to your new account, and save.
+Then you are all set!
+
+Share
+Improve this answer
+Follow
+answered Apr 14, 2019 at 2:05
+Novus's user avatar
+Novus
+73177 silver badges1313 bronze badges
+Add a comment
+
+8
+
+
+Appreciating VonC's answer.
